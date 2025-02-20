@@ -67,10 +67,12 @@ Found a bug? Please create an issue in the GitHub repository with:
 
 ## ✨ Future Enhancements
 
+- User-customizable color-coded admin bar for easier identification of the current environment
+- URL settings specific to the logged-in user
 - Support for multiple environments (dev, staging, production)
 - URL pattern matching for more flexible environment detection
-- Environment indicators in the admin bar
-- Batch URL replacement tools
+
+
 
 ---
 
